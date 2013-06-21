@@ -1,0 +1,5 @@
+diffbotAPIkey = "xxxx"
+semantriaAPIkey = "xxxx"
+semantriaAPIsecret = "xxxx"
+mozscapeAPIaccessID = "xxxx"
+mozscapeAPIkey = "xxxx"

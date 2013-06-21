@@ -1,0 +1,1257 @@
+[
+   {
+      "icon": "http://ycombinator.com/arc/arc.png",
+      "semantria": {
+         "config_id": "b12a1cc1-77fc-4466-8f62-94c366dc9fca",
+         "entities": [
+            {
+               "confident": true,
+               "entity_type": "Person",
+               "evidence": 7,
+               "is_about": false,
+               "label": "Person",
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.272064,
+               "themes": [
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "college students"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "suburban street"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "similar startup"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "retaining control"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "different startups"
+                  }
+               ],
+               "title": "Sean Parker",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Person",
+               "evidence": 7,
+               "is_about": false,
+               "label": "http://en.wikipedia.org/wiki/Larry_Page",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.71,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "negative",
+                     "sentiment_score": -0.53000003,
+                     "strength_score": 0.75,
+                     "title": "critical thing"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "negative",
+                     "sentiment_score": -0.53000003,
+                     "strength_score": 0.75,
+                     "title": "right amount"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.37,
+                     "strength_score": 0.45,
+                     "title": "good example"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41,
+                     "strength_score": 0.36666667,
+                     "title": "meeting someone"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41,
+                     "strength_score": 0.36666667,
+                     "title": "acquaintance drift"
+                  }
+               ],
+               "title": "Larry Page",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Person",
+               "evidence": 7,
+               "is_about": false,
+               "label": "http://en.wikipedia.org/wiki/Sergey_Brin",
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.0,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "negative",
+                     "sentiment_score": -0.53000003,
+                     "strength_score": 0.75,
+                     "title": "critical thing"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "negative",
+                     "sentiment_score": -0.53000003,
+                     "strength_score": 0.75,
+                     "title": "right amount"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.37,
+                     "strength_score": 0.45,
+                     "title": "good example"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41,
+                     "strength_score": 0.36666667,
+                     "title": "meeting someone"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41,
+                     "strength_score": 0.36666667,
+                     "title": "acquaintance drift"
+                  }
+               ],
+               "title": "Sergey Brin",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Job Title",
+               "evidence": 4,
+               "is_about": false,
+               "label": "Job Title",
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.09356949,
+               "themes": [
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.23541403,
+                     "strength_score": 1.0,
+                     "title": "willful people"
+                  }
+               ],
+               "title": "partner",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Place",
+               "evidence": 4,
+               "is_about": false,
+               "label": "Place",
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.272064,
+               "themes": [
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "college students"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "suburban street"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "similar startup"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.381032,
+                     "strength_score": 1.0,
+                     "title": "retaining control"
+                  }
+               ],
+               "title": "Palo Alto",
+               "type": "named"
+            }
+         ],
+         "id": "39266ededa2611e2a6bf406c8f137d85",
+         "language": "English",
+         "language_score": 238.69,
+         "phrases": [
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 1.2,
+               "title": "powerful",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "negative",
+               "sentiment_score": -1.0425,
+               "title": "killed",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.91875005,
+               "title": "eagerly",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "negative",
+               "sentiment_score": -0.75,
+               "title": "disasters",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.8640001,
+               "title": "valuable",
+               "type": "detected"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "average town",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "roach motel",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "never able",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "potential startups",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "couple weeks",
+               "type": "possible"
+            }
+         ],
+         "sentiment_polarity": "neutral",
+         "sentiment_score": 0.1057688,
+         "status": "PROCESSED",
+         "summary": "Want to start a startup?... If you look at a list of US cities sorted by population, the number of successful startups per capita varies by orders of magnitude... [2] Environment I think there are two components to the antidote: being in a place where startups are the cool thing to do, and chance meetings with people who can help you... ",
+         "themes": [
+            {
+               "evidence": 7,
+               "is_about": true,
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.7364539,
+               "strength_score": 1.481685,
+               "title": "cool thing"
+            },
+            {
+               "evidence": 7,
+               "is_about": false,
+               "sentiment_polarity": "negative",
+               "sentiment_score": -0.5953324,
+               "strength_score": 1.3382863,
+               "title": "inexperienced founders"
+            },
+            {
+               "evidence": 7,
+               "is_about": false,
+               "sentiment_polarity": "negative",
+               "sentiment_score": -0.5953324,
+               "strength_score": 1.3382863,
+               "title": "sounding ideas"
+            },
+            {
+               "evidence": 7,
+               "is_about": false,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": -0.03397444,
+               "strength_score": 1.3214285,
+               "title": "unusual thing"
+            },
+            {
+               "evidence": 7,
+               "is_about": true,
+               "sentiment_polarity": "positive",
+               "sentiment_score": 1.2913888,
+               "strength_score": 0.9444445,
+               "title": "average town"
+            }
+         ],
+         "topics": [
+            {
+               "hitcount": 0,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": -0.42666674,
+               "strength_score": 0.566572,
+               "title": "Business",
+               "type": "concept"
+            },
+            {
+               "hitcount": 0,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.49,
+               "strength_score": 0.5069479,
+               "title": "Technology",
+               "type": "concept"
+            },
+            {
+               "hitcount": 4,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.0,
+               "strength_score": 0.0,
+               "title": "Technology",
+               "type": "query"
+            },
+            {
+               "hitcount": 2,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.0,
+               "strength_score": 0.0,
+               "title": "Education",
+               "type": "query"
+            },
+            {
+               "hitcount": 2,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.0,
+               "strength_score": 0.0,
+               "title": "Environment",
+               "type": "query"
+            }
+         ]
+      },
+      "text": "Want to start a startup? Get funded by Y Combinator.\n\nIf you look at a list of US cities sorted by population, the number of successful startups per capita varies by orders of magnitude. Somehow it's as if most places were sprayed with startupicide.\nI wondered about this for years. I could see the average town was like a roach motel for startup ambitions: smart, ambitious people went in, but no startups came out. But I was never able to figure out exactly what happened inside the motel\u2014exactly what was killing all the potential startups. [1]\nA couple weeks ago I finally figured it out. I was framing the question wrong. The problem is not that most towns kill startups. It's that death is the default for startups, and most towns don't save them. Instead of thinking of most places as being sprayed with startupicide, it's more accurate to think of startups as all being poisoned, and a few places being sprayed with the antidote.\nStartups in other places are just doing what startups naturally do: fail. The real question is, what's saving startups in places like Silicon Valley? [2]\nEnvironment\nI think there are two components to the antidote: being in a place where startups are the cool thing to do, and chance meetings with people who can help you. And what drives them both is the number of startup people around you.\nThe first component is particularly helpful in the first stage of a startup's life, when you go from merely having an interest in starting a company to actually doing it. It's quite a leap to start a startup. It's an unusual thing to do. But in Silicon Valley it seems normal. [3]\nIn most places, if you start a startup, people treat you as if you're unemployed. People in the Valley aren't automatically impressed with you just because you're starting a company, but they pay attention. Anyone who's been here any amount of time knows not to default to skepticism, no matter how inexperienced you seem or how unpromising your idea sounds at first, because they've all seen inexperienced founders with unpromising sounding ideas who a few years later were billionaires.\nHaving people around you care about what you're doing is an extraordinarily powerful force. Even the most willful people are susceptible to it. About a year after we started Y Combinator I said something to a partner at a well known VC firm that gave him the (mistaken) impression I was considering starting another startup. He responded so eagerly that for about half a second I found myself considering doing it.\nIn most other cities, the prospect of starting a startup just doesn't seem real. In the Valley it's not only real but fashionable. That no doubt causes a lot of people to start startups who shouldn't. But I think that's ok. Few people are suited to running a startup, and it's very hard to predict beforehand which are (as I know all too well from being in the business of trying to predict beforehand), so lots of people starting startups who shouldn't is probably the optimal state of affairs. As long as you're at a point in your life when you can bear the risk of failure, the best way to find out if you're suited to running a startup is to try it.\nChance\nThe second component of the antidote is chance meetings with people who can help you. This force works in both phases: both in the transition from the desire to start a startup to starting one, and the transition from starting a company to succeeding. The power of chance meetings is more variable than people around you caring about startups, which is like a sort of background radiation that affects everyone equally, but at its strongest it is far stronger.\nChance meetings produce miracles to compensate for the disasters that characteristically befall startups. In the Valley, terrible things happen to startups all the time, just like they do to startups everywhere. The reason startups are more likely to make it here is that great things happen to them too. In the Valley, lightning has a sign bit.\nFor example, you start a site for college students and you decide to move to the Valley for the summer to work on it. And then on a random suburban street in Palo Alto you happen to run into Sean Parker, who understands the domain really well because he started a similar startup himself, and also knows all the investors. And moreover has advanced views, for 2004, on founders retaining control of their companies.\nYou can't say precisely what the miracle will be, or even for sure that one will happen. The best one can say is: if you're in a startup hub, unexpected good things will probably happen to you, especially if you deserve them.\nI bet this is true even for startups we fund. Even with us working to make things happen for them on purpose rather than by accident, the frequency of helpful chance meetings in the Valley is so high that it's still a significant increment on what we can deliver.\nChance meetings play a role like the role relaxation plays in having ideas. Most people have had the experience of working hard on some problem, not being able to solve it, giving up and going to bed, and then thinking of the answer in the shower in the morning. What makes the answer appear is letting your thoughts drift a bit\u2014and thus drift off the wrong path you'd been pursuing last night and onto the right one adjacent to it.\nChance meetings let your acquaintance drift in the same way taking a shower lets your thoughts drift. The critical thing in both cases is that they drift just the right amount. The meeting between Larry Page and Sergey Brin was a good example. They let their acquaintance drift, but only a little; they were both meeting someone they had a lot in common with.\nFor Larry Page the most important component of the antidote was Sergey Brin, and vice versa. The antidote is people. It's not the physical infrastructure of Silicon Valley that makes it work, or the weather, or anything like that. Those helped get it started, but now that the reaction is self-sustaining what drives it is the people.\nMany observers have noticed that one of the most distinctive things about startup hubs is the degree to which people help one another out, with no expectation of getting anything in return. I'm not sure why this is so. Perhaps it's because startups are less of a zero sum game than most types of business; they are rarely killed by competitors. Or perhaps it's because so many startup founders have backgrounds in the sciences, where collaboration is encouraged.\nA large part of YC's function is to accelerate that process. We're a sort of Valley within the Valley, where the density of people working on startups and their willingness to help one another are both artificially amplified.\nNumbers\nBoth components of the antidote\u2014an environment that encourages startups, and chance meetings with people who help you\u2014are driven by the same underlying cause: the number of startup people around you. To make a startup hub, you need a lot of people interested in startups.\nThere are three reasons. The first, obviously, is that if you don't have enough density, the chance meetings don't happen. [4] The second is that different startups need such different things, so you need a lot of people to supply each startup with what they need most. Sean Parker was exactly what Facebook needed in 2004. Another startup might have needed a database guy, or someone with connections in the movie business.\nThis is one of the reasons we fund such a large number of companies, incidentally. The bigger the community, the greater the chance it will contain the person who has that one thing you need most.\nThe third reason you need a lot of people to make a startup hub is that once you have enough people interested in the same problem, they start to set the social norms. And it is a particularly valuable thing when the atmosphere around you encourages you to do something that would otherwise seem too ambitious. In most places the atmosphere pulls you back toward the mean.\nI flew into the Bay Area a few days ago. I notice this every time I fly over the Valley: somehow you can sense something is going on. Obviously you can sense prosperity in how well kept a place looks. But there are different kinds of prosperity. Silicon Valley doesn't look like Boston, or New York, or LA, or DC. I tried asking myself what word I'd use to describe the feeling the Valley radiated, and the word that came to mind was optimism.\nNotes\n[1] I'm not saying it's impossible to succeed in a city with few other startups, just harder. If you're sufficiently good at generating your own morale, you can survive without external encouragement. Wufoo was based in Tampa and they succeeded. But the Wufoos are exceptionally disciplined.\n[2] Incidentally, this phenomenon is not limited to startups. Most unusual ambitions fail, unless the person who has them manages to find the right sort of community.\n[3] Starting a company is common, but starting a startup is rare. I've talked about the distinction between the two elsewhere, but essentially a startup is a new business designed for scale. Most new businesses are service businesses and except in rare cases those don't scale.\n[4] As I was writing this, I had a demonstration of the density of startup people in the Valley. Jessica and I bicycled to University Ave in Palo Alto to have lunch at the fabulous Oren's Hummus. As we walked in, we met Charlie Cheever sitting near the door. Selina Tobaccowala stopped to say hello on her way out. Then Josh Wilson came in to pick up a take out order. After lunch we went to get frozen yogurt. On the way we met Rajat Suri. When we got to the yogurt place, we found Dave Shen there, and as we walked out we ran into Yuri Sagalov. We walked with him for a block or so and we ran into Muzzammil Zaveri, and then a block later we met Aydin Senkut. This is everyday life in Palo Alto. I wasn't trying to meet people; I was just having lunch. And I'm sure for every startup founder or investor I saw that I knew, there were 5 more I didn't. If Ron Conway had been with us he would have met 30 people he knew.\nThanks to Sam Altman, Paul Buchheit, Jessica Livingston, and Harj Taggar for reading drafts of this.",
+      "title": "Why Startup Hubs Work",
+      "type": "article",
+      "url": "http://paulgraham.com/hubs.html",
+      "xpath": "/HTML[1]/BODY[1]/TABLE[1]/TBODY[1]/TR[1]/TD[3]/P[2]/TABLE[1]/TBODY[1]/TR[1]/TD[1]"
+   },
+   {
+      "author": "Sebastian Wain",
+      "date": "Mon, 3 Oct 2011 00:00:00 GMT",
+      "semantria": {
+         "config_id": "b12a1cc1-77fc-4466-8f62-94c366dc9fca",
+         "entities": [
+            {
+               "confident": true,
+               "entity_type": "Place",
+               "evidence": 7,
+               "is_about": false,
+               "label": "Place",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.516255,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 2.6617,
+                     "strength_score": 1.6500001,
+                     "title": "entrepreneurial communities"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 0.5439,
+                     "strength_score": 1.263889,
+                     "title": "bay area companies"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.6028,
+                     "strength_score": 0.95,
+                     "title": "entrepreneurial density"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 0.5439,
+                     "strength_score": 0.5833334,
+                     "title": "short drive"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 0.5439,
+                     "strength_score": 0.5833334,
+                     "title": "walking distance"
+                  }
+               ],
+               "title": "San Francisco",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Place",
+               "evidence": 7,
+               "is_about": false,
+               "label": "Place",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.516255,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 3.7494998,
+                     "strength_score": 1.9833335,
+                     "title": "entrepreneurial communities"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 2.6906,
+                     "strength_score": 1.45,
+                     "title": "entrepreneurial density"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.026255,
+                     "strength_score": 1.0,
+                     "title": "big cities"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.026255,
+                     "strength_score": 1.0,
+                     "title": "small area"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.49695,
+                     "strength_score": 0.3,
+                     "title": "8 block area"
+                  }
+               ],
+               "title": "New York",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Place",
+               "evidence": 7,
+               "is_about": true,
+               "label": "Place",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 3.1616595,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 0.8233191,
+                     "strength_score": 2.0,
+                     "title": "entrepreneurial density"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41165954,
+                     "strength_score": 1.0,
+                     "title": "growth companies"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41165954,
+                     "strength_score": 1.0,
+                     "title": "adult population"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41165954,
+                     "strength_score": 1.0,
+                     "title": "empirical data"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41165954,
+                     "strength_score": 1.0,
+                     "title": "qualitative assessment"
+                  }
+               ],
+               "title": "United States",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Place",
+               "evidence": 7,
+               "is_about": false,
+               "label": "Place",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 1.0305246,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 0.8233191,
+                     "strength_score": 2.0,
+                     "title": "entrepreneurial density"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41165954,
+                     "strength_score": 1.0,
+                     "title": "growth companies"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41165954,
+                     "strength_score": 1.0,
+                     "title": "adult population"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41165954,
+                     "strength_score": 1.0,
+                     "title": "empirical data"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41165954,
+                     "strength_score": 1.0,
+                     "title": "qualitative assessment"
+                  }
+               ],
+               "title": "US",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Place",
+               "evidence": 7,
+               "is_about": false,
+               "label": "Place",
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.0,
+               "themes": [
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.49695,
+                     "strength_score": 2.1666667,
+                     "title": "bay area companies"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.49695,
+                     "strength_score": 1.5,
+                     "title": "8 block area"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.49695,
+                     "strength_score": 1.0,
+                     "title": "short drive"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.49695,
+                     "strength_score": 1.0,
+                     "title": "walking distance"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.49695,
+                     "strength_score": 1.0,
+                     "title": "entrepreneurial communities"
+                  }
+               ],
+               "title": "Palo Alto",
+               "type": "named"
+            }
+         ],
+         "id": "3d6bdc4ada2611e280e0406c8f137d85",
+         "language": "English",
+         "language_score": 58.88,
+         "phrases": [
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.61,
+               "title": "high growth",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.58,
+               "title": "reinvigorate",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.54039,
+               "title": "significant",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.49,
+               "title": "entrepreneurial",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.45,
+               "title": "end up",
+               "type": "detected"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "n\u2019t have",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "downtown Boulder",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "always bump",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "other end",
+               "type": "possible"
+            }
+         ],
+         "sentiment_polarity": "positive",
+         "sentiment_score": 0.33375677,
+         "status": "PROCESSED",
+         "summary": "When asked why Boulder is such a vibrant entrepreneurial community, I talk about a concept I call entrepreneurial density... Boulder is a small town \u2013 the city itself is only 100,000 people... Start with the definition: entrepreneurial density = ((# entrepreneurs + # people working for startups or high growth companies)) / adult population My guess is that Boulder\u2019s entrepreneurial density is one of the highest in the United States... ",
+         "themes": [
+            {
+               "evidence": 7,
+               "is_about": true,
+               "sentiment_polarity": "positive",
+               "sentiment_score": 8.612624,
+               "strength_score": 6.5139995,
+               "title": "entrepreneurial community"
+            },
+            {
+               "evidence": 7,
+               "is_about": false,
+               "sentiment_polarity": "positive",
+               "sentiment_score": 3.9000688,
+               "strength_score": 3.2043319,
+               "title": "4 block area"
+            },
+            {
+               "evidence": 7,
+               "is_about": true,
+               "sentiment_polarity": "positive",
+               "sentiment_score": 4.5629673,
+               "strength_score": 2.5650187,
+               "title": "growth companies"
+            },
+            {
+               "evidence": 7,
+               "is_about": true,
+               "sentiment_polarity": "positive",
+               "sentiment_score": 4.5629673,
+               "strength_score": 2.5650187,
+               "title": "adult population"
+            },
+            {
+               "evidence": 7,
+               "is_about": true,
+               "sentiment_polarity": "positive",
+               "sentiment_score": 1.6600001,
+               "strength_score": 1.7916666,
+               "title": "small town"
+            }
+         ],
+         "topics": [
+            {
+               "hitcount": 0,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.49,
+               "strength_score": 0.5179667,
+               "title": "Politics",
+               "type": "concept"
+            },
+            {
+               "hitcount": 0,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.41165954,
+               "strength_score": 0.45091435,
+               "title": "Investing",
+               "type": "concept"
+            }
+         ]
+      },
+      "text": "I\u2019m in San Francisco right now and then New York later this week. When I look at my schedule, and where I\u2019m hanging out, I realize that even though I\u2019m in two very big cities, I\u2019m going to spending most of my time in a very small area.\nWhen asked why Boulder is such a vibrant entrepreneurial community, I talk about a concept I call entrepreneurial density. Boulder is a small town \u2013 the city itself is only 100,000 people. Yet the number of entrepreneurs in Boulder is significant. And the number of people working for startups is off the charts. Start with the definition:\nentrepreneurial density = ((# entrepreneurs + # people working for startups or high growth companies)) / adult population\nMy guess is that Boulder\u2019s entrepreneurial density is one of the highest in the United States. I don\u2019t have any empirical data to back this up \u2013 it\u2019s a qualitative assessment based on my experience traveling around and investing in different parts of the US.\nWhile population is one measure, I\u2019ve also started thinking about geography as another. In the case of Boulder, the core of the entrepreneurial community is in downtown, which is a 10 x 4 block area. Even though downtown Boulder is small, it has different personalities (yes \u2013 we have an east side and a west side), yet you can walk from one end to the other in ten minutes. And, inevitably, when I walk across town I always bump into people I know.\nThe geography index matters even in places like New York. When I stay in New York, I generally stay within walking distance of Union Square. Sure, I end up in midtown or downtown occasionally, but most of my time is spent in a 20 x 8 block area. The bay area splits similarly \u2013 I\u2019m in San Francisco within walking distance or a short drive of many of our bay area companies, but I\u2019m on the other end of the planet from Palo Alto.\nAs I think more about entrepreneurial communities, I\u2019m starting to expand my definition of entrepreneurial density to include by population and geography. This seems to matter a lot, even in very large entrepreneurial communities like New York and San Francisco.\nI\u2019m curious about experiences in other parts of the country, especially entrepreneurial communities that are growing or trying to reinvigorate themselves. How does entrepreneurial density (either geo or population) impact you?",
+      "title": "Entrepreneurial Density Revisted",
+      "type": "article",
+      "url": "http://www.feld.com/wp/archives/2011/10/entrepreneurial-density-revisted.html",
+      "xpath": "/HTML[1]/BODY[1]/SECTION[3]/DIV[2]/SECTION[1]/DIV[1]/DIV[3]"
+   },
+   {
+      "date": "Sun, 25 Nov 2012 00:00:00 GMT",
+      "icon": "http://lesswrong.com/static/favicon.ico",
+      "media": [
+         {
+            "caption": "The Ziggurat of Ur-Nammu",
+            "link": "http://www.islamic-architecture.info/WA-IQ/MFD05-02.jpg",
+            "primary": "true",
+            "type": "image"
+         },
+         {
+            "caption": "brain mass as a percent of body mass against time",
+            "link": "http://www.alife.co.uk/essays/the_intelligence_explosion_is_happening_now/graphics/fossil_hominin_brain_percent.png",
+            "type": "image"
+         }
+      ],
+      "numPages": 3,
+      "semantria": {
+         "config_id": "b12a1cc1-77fc-4466-8f62-94c366dc9fca",
+         "entities": [
+            {
+               "confident": true,
+               "entity_type": "Person",
+               "evidence": 7,
+               "is_about": true,
+               "label": "Person",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 1.50646,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.1109948,
+                     "strength_score": 3.5310066,
+                     "title": "asian land masses"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.5274854,
+                     "strength_score": 3.2612562,
+                     "title": "critical mass"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.9674498,
+                     "strength_score": 2.8002512,
+                     "title": "populated area"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.9674498,
+                     "strength_score": 2.8002512,
+                     "title": "great brick"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "negative",
+                     "sentiment_score": -0.96061385,
+                     "strength_score": 2.5456097,
+                     "title": "false dawn"
+                  }
+               ],
+               "title": "Ur",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Place",
+               "evidence": 7,
+               "is_about": true,
+               "label": "Place",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.9121755,
+               "themes": [
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.20129077,
+                     "strength_score": 1.5,
+                     "title": "thriving trading village"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.20129077,
+                     "strength_score": 1.5,
+                     "title": "patron moon goddess"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.20129077,
+                     "strength_score": 1.0,
+                     "title": "ancestral species"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.20129077,
+                     "strength_score": 1.0,
+                     "title": "clear idea"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.20129077,
+                     "strength_score": 1.0,
+                     "title": "archaeological evidence"
+                  }
+               ],
+               "title": "Iraq",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Person",
+               "evidence": 4,
+               "is_about": false,
+               "label": "Person",
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.28266668,
+               "themes": [
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.37440553,
+                     "strength_score": 1.5,
+                     "title": "fertile crescent farmers"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.37440553,
+                     "strength_score": 1.5,
+                     "title": "major land masses"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.37440553,
+                     "strength_score": 1.0,
+                     "title": "main key"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.37440553,
+                     "strength_score": 1.0,
+                     "title": "human technology"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.37440553,
+                     "strength_score": 1.0,
+                     "title": "area links"
+                  }
+               ],
+               "title": "Jared Diamond",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Quote",
+               "evidence": 4,
+               "is_about": false,
+               "label": "Quote",
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.0,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.2486601,
+                     "strength_score": 3.0,
+                     "title": "glacial period"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.2486601,
+                     "strength_score": 3.0,
+                     "title": "interglacial period"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41622,
+                     "strength_score": 2.1666667,
+                     "title": "recent ice age"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41622,
+                     "strength_score": 1.0,
+                     "title": "dry season"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41622,
+                     "strength_score": 1.0,
+                     "title": "growing grains"
+                  }
+               ],
+               "title": "\"glacial period\"",
+               "type": "named"
+            },
+            {
+               "confident": true,
+               "entity_type": "Quote",
+               "evidence": 4,
+               "is_about": false,
+               "label": "Quote",
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.0,
+               "themes": [
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.2486601,
+                     "strength_score": 3.0,
+                     "title": "glacial period"
+                  },
+                  {
+                     "evidence": 7,
+                     "is_about": false,
+                     "sentiment_polarity": "positive",
+                     "sentiment_score": 1.2486601,
+                     "strength_score": 3.0,
+                     "title": "interglacial period"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41622,
+                     "strength_score": 2.1666667,
+                     "title": "recent ice age"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41622,
+                     "strength_score": 1.0,
+                     "title": "dry season"
+                  },
+                  {
+                     "evidence": 4,
+                     "is_about": false,
+                     "sentiment_polarity": "neutral",
+                     "sentiment_score": 0.41622,
+                     "strength_score": 1.0,
+                     "title": "growing grains"
+                  }
+               ],
+               "title": "\"ice age\"",
+               "type": "named"
+            }
+         ],
+         "id": "477e6175da2611e2abf0406c8f137d85",
+         "language": "English",
+         "language_score": 223.27,
+         "phrases": [
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.7644,
+               "title": "easily",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "negative",
+               "sentiment_score": -0.7,
+               "title": "failed",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.75,
+               "title": "first choice",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "negative",
+               "sentiment_score": -0.6026666,
+               "title": "pestilence",
+               "type": "detected"
+            },
+            {
+               "is_negated": false,
+               "negating_phrase": "",
+               "sentiment_polarity": "positive",
+               "sentiment_score": 0.633409,
+               "title": "ongoing basis",
+               "type": "detected"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "other factors",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "ancestral species",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "populated area",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "Asian land",
+               "type": "possible"
+            },
+            {
+               "sentiment_polarity": "neutral",
+               "title": "not have",
+               "type": "possible"
+            }
+         ],
+         "sentiment_polarity": "neutral",
+         "sentiment_score": 0.10804581,
+         "status": "PROCESSED",
+         "summary": "Although we don't have precise IQ test numbers for our immediate ancestral species, the fossil record is good enough to give us a clear idea of how brain size has changed over time: and we do have archaeological evidence of approximately when various technologies (such as pictograms, or using fire to cook meat) became common.The First City About 6,000 years ago (4000 BCE), Ur was a thriving trading village on the flood plain near the mouth of the river Euphrates in what is now called southern Iraq and what historians call Sumeria... By 3000 BCE it was the heart of a city-state with a core built up populated area covering 37 acres, and would go on over the following thousand years to lead the Sumerian empire, raise a great brick Ziggurat to its patron moon goddess, and become the largest city in the world (65,000 people concentrated in 54 acres)... (Earthenware ceramics date to 25,000 BCE and earlier, though the potter's wheel, useful for mass production of regular storage vessels, does date to the Ubaid period.)... ",
+         "themes": [
+            {
+               "evidence": 7,
+               "is_about": false,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.21609162,
+               "strength_score": 2.0,
+               "title": "false dawn"
+            },
+            {
+               "evidence": 7,
+               "is_about": false,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.21609162,
+               "strength_score": 2.0,
+               "title": "critical mass"
+            },
+            {
+               "evidence": 4,
+               "is_about": false,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.10804581,
+               "strength_score": 2.5,
+               "title": "total body oxygen consumption"
+            },
+            {
+               "evidence": 4,
+               "is_about": false,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.10804581,
+               "strength_score": 2.1666667,
+               "title": "recent ice age"
+            },
+            {
+               "evidence": 4,
+               "is_about": false,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.10804581,
+               "strength_score": 2.1666667,
+               "title": "human brain development"
+            }
+         ],
+         "topics": [
+            {
+               "hitcount": 0,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.054109324,
+               "strength_score": 0.6164939,
+               "title": "Food",
+               "type": "concept"
+            },
+            {
+               "hitcount": 0,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.2798428,
+               "strength_score": 0.5591887,
+               "title": "Agriculture",
+               "type": "concept"
+            },
+            {
+               "hitcount": 0,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.22201248,
+               "strength_score": 0.5084772,
+               "title": "Renewable Energy",
+               "type": "concept"
+            },
+            {
+               "hitcount": 3,
+               "sentiment_polarity": "positive",
+               "sentiment_score": 1.7380466,
+               "strength_score": 0.0,
+               "title": "Disasters",
+               "type": "query"
+            },
+            {
+               "hitcount": 1,
+               "sentiment_polarity": "neutral",
+               "sentiment_score": 0.07499999,
+               "strength_score": 0.0,
+               "title": "Education",
+               "type": "query"
+            }
+         ]
+      },
+      "text": "Gwern suggested that, if it were possible for civilization to have developed when our species had a lower IQ, then we'd still be dealing with the same problems, but we'd have a lower IQ with which to tackle them. Or, to put it another way, it is unsurprising that living in a civilization has posed problems that our species finds difficult to tackle, because if we were capable of solving such problems easily, we'd probably also have been capable of developing civilization earlier than we did.\nHow true is that?\nIn this post I plan to look in detail at the origins of civilization with an eye to considering how much the timing of it did depend directly upon the IQ of our species, rather than upon other factors.\nAlthough we don't have precise IQ test numbers for our immediate ancestral species, the fossil record is good enough to give us a clear idea of how brain size has changed over time:\nand we do have archaeological evidence of approximately when various technologies (such as pictograms, or using fire to cook meat) became common.The First City\nAbout 6,000 years ago (4000 BCE), Ur was a thriving trading village on the flood plain near the mouth of the river Euphrates in what is now called southern Iraq and what historians call Sumeria.\nBy 3000 BCE it was the heart of a city-state with a core built up populated area covering 37 acres, and would go on over the following thousand years to lead the Sumerian empire, raise a great brick Ziggurat to its patron moon goddess, and become the largest city in the world (65,000 people concentrated in 54 acres).\nIt was eventually doomed by desertification and soil salination, caused by its own success (over-grazing and land clearing) but, by then, cities had spread throughout the fertile crescent of rivers at the intersection of the European, African and Asian land masses.\nUr may not have been the first city, but it was the first one we know of that wasn't part of a false dawn - one whose culture and technologies did demonstrably spread to other areas. It was the flashpoint.\nWe don't know for certain what it was about the culture surrounding the dawn of cities that made that particular combination of trade, writing, specialisation, hierarchy and religion communicable, when similar cultures from previous false dawns failed to spread. We can trace each of those elements to earlier sources, none of them were original to Ur, so perhaps it was a case of a critical mass achieving a self-sustaining reaction.\nWhat we can look at is why the conditions to allow a village to become a large enough city for such a critical mass of developments to accumulate, occurred at that time and place.From Village to City\nMotivation aside, the chief problem with sustaining large numbers of people together in a small area, over several generations, keeping them healthy enough for the population to grow without continual immigration, is ensuring access to a scalable renewable predictable source of calories.\nTo be predictable means surviving famine years, which requires crops that can be stored for several years, such as grasses (wheat, barley and millet) with large seeds, and good storage facilities to store them in. It also means surviving pestilence, which requires having a variety of such crops. To be scalable and renewable means supplying water and nutrients to those crops on an ongoing basis, which requires irrigation and fertiliser from domesticated animals (if you don't have handy regular floods).\nHaving large mammals available to domesticate, who can provide fertiliser and traction (pulling ploughs and harrows) certainly makes things easier, but doesn't seem to have been a large factor in the timing of the rise of civilisation, or particularly dependent upon the IQ of the human species. Research suggests that domestication may have been driven as much by the animals own behaviour as by human intention, with those animals daring to approach humans more closely getting first choice of discarded food.\nRe-planting seeds to ensure plants to gather in following years, leading to low nutrition grasses adapting into grains with high protein concentrations in the seeds, does seem to a mainly intentional human activity in that we can trace most of the gain in size of such plant species seeds to locations where humans have transitioned from the palaeolithic hunter-gatherer culture (about 2.5 million years ago, to about 10,000 years ago) to the neolithic agricultural culture (about 10,000 year ago, onwards).\nGood grain storage seems to have developed incrementally starting with crude stone silo pit designs in 9500 BCE, and progressing by 6000 BCE to customised buildings with raised floors and sealed ceramic containers which could store 80 tons of wheat in good condition for 4 years or more. (Earthenware ceramics date to 25,000 BCE and earlier, though the potter's wheel, useful for mass production of regular storage vessels, does date to the Ubaid period.)\nThe main key to the timing of the transition from village to city seems to have been not human technology but the confluence of climate and biology. Jared Diamond points the finger at the geography of the region - the fertile crescent farmers had access to a wider variety of grains than anywhere else in the world because that area links and has access to the species of three major land masses. The Mediterranean climate has a long dry season with a short period of rain, which made it ideal for growing grains (which are much easier to store for several years than, for instance bananas). And everything kicked off when the climate stabilised after the most recent ice age ended about 12,000 years ago.Ice Ages\nStrictly speaking, we're actually talking about the end of a \"glacial period\" rather than the end of an entire \"ice age\". The timeline goes:\n200,000 years ago - 130,000 years ago : glacial period\n130,000 years ago - 110,000 years ago : interglacial period\n110,000 years ago - 12,000 years ago : glacial period\n 12,000 years ago - present : interglacial period\nSo the question now is, why didn't humanity spawn civilisation in the fertile crescent 130,000 years ago, during the last interglacial period? Why did it happen in this one? Did we get significantly brighter in the mean time?\nIt isn't, on the face of it, an implausible idea. 100,000 years is long enough for evolutionary change to happen, and maybe inventing pottery or becoming farmers did take more brain power than humanity had back then. Or, if not IQ, perhaps it was some other mental change like attention span, or the capacity to obey written laws, live as a specialist in a hierarchy, or similar.\nBut there's no evidence that this is the case, nor is there a need to hypothesise it because there is at least one genetic change we do know about during that time period, that is by itself sufficient to explain the lack of civilisation 130,000 years ago. And it has nothing to do with the brain.Brains, Genes and Calories\nUsing the San Bushpeople as a guide to the palaeolithic diet, hunter-gather culture was able to support an average population density of one person per acre. Not that they ate badly, as individuals. Indeed, they seem to have done better than the early Neolithic farmers. But they had to be free to wander to follow nomadic food sources, and they were limited by access to food that the human body could use to create Docosahexaenoic acid, which is a fatty acid required for human brain development. Originally humans got this from fish living in the lakes and rivers of central Africa. However, about 80,000 years ago, we developed a gene that let us synthesise the same acid from other sources, freeing humanity to migrate away from the wet areas, past the dry northern part, and out into the fertile crescent.\nBut there is a link between diet and brain. Although the human brain represents only 2% of the body weight, it receives 15% of the cardiac output, 20% of total body oxygen consumption, and 25% of total body glucose utilization. Brains are expensive, in terms of calories consumed. Although brain size or brain activity that uses up glucose is not linearly related to individual IQ, they are linked on a species level.\nIQ is polygenetic, meaning that many different genes are relevant to a person's potential maximum IQ. (Note: there are many non-genetic factors that may prevent an individual reaching their potential). Algernon's Law suggests that genes affecting IQ that have multiple alleles still common in the human population are likely to have a cost associated with the alleles tending to increase IQ, otherwise they'd have displaced the competing alleles. In the same way that an animal species that develops the capability to grow a fur coat in response to cold weather is more advanced than one whose genes strictly determine that it will have a thick fur coat at all times, whether the weather is cold or hot; the polygenetic nature of human IQ gives human populations the ability to adapt and react on the time scale of just a few generations, increasing or decreasing the average IQ of the population as the environment changes to reduce or increase the penalties of particular trade-offs for particular alleles contributing to IQ. In particular, if the trade-off for some of those alleles is increased energy consumption and we look at a population of humans moving from an environment where calories are the bottleneck on how many offspring can be produced and survive, to an environment where calories are more easily available, then we might expect to see something similar to the Flynn effect.Summary\nThere is no cause to suppose, even if the human genome 100,000 years ago had the full set of IQ-related-alleles present in our genome today, that they would have developed civilisation much sooner.\nComment Navigation Aide\nlink - DuncanS - animal vs human intelligence\nlink - DuncanS - brain size & brain efficiency\nlink - JaySwartz - adaptability vs intelligence\nlink - RichardKennaway - does more intelligence tend to bring more societal happiness?\nlink - mrglwrf - Ur vs Uruk\nlink - NancyLebovitz - does decreased variance of intelligence tend to bring more societal happiness?\nlink - fubarobfusco - victors writing history\nlink -- consequentialist treatment of library burning\nlink -- the average net contribution to society of people working in academia\nlink - John_Maxwell_IV - independent development of civilisation in the Americas\nlink - shminux - How much of our IQ is dependant upon Docosahexaenoic acid?\nlink - army1987 - implications for the Great Filter\nlink - Vladimir_Nesov - genome vs expressed IQ\nlink - Vladimir_Nesov - Rhetorical nitpick\nlink - Vaniver - IQ & non-processor-speed components of problem solving\nlink - JoshuaZ - breakthroughs don't tend to require geniuses in order to be made\nlink - Desrtopa - cultural factorors\nOk. Which of the following do you think is a worthwhile research question:\nNon-Euclidean geometry (Lobachevsky, 1826).\nGalois theory (Galois, 1830).\nComplex numbers (Bombelli, 1572).\nThe periodic table (Mendeleev, 1869).\nInterventionist causality (Wright, Neyman, Rubin, Pearl, Robins, etc. 1920-today).\nObjectivism (Rand, ~1950s).\nNone of these were developed by corporations (or similar entities) or corporation sponsored individuals, to my knowledge.\nLess Wrong is a community blog devoted to refining the art of human rationality. Please visit our About page for more information.",
+      "title": "How minimal is our intelligence?",
+      "type": "article",
+      "url": "http://lesswrong.com/lw/fk4/how_minimal_is_our_intelligence/",
+      "xpath": "/HTML[1]/BODY[1]/DIV[1]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]"
+   }
+]
